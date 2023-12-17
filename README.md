@@ -25,4 +25,4 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     
    <h5 align="left">CONTACT AUTHOR:</h5>
    • https://wa.me/6282218658387
-   • Jika ingin membeli lisensi hubungi nomor di atas
+    Jika ingin membeli lisensi hubungi nomor di sebelah
